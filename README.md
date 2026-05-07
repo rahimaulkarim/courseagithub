@@ -1,1 +1,2 @@
 # courseagithub
+getting started 
